@@ -1,0 +1,83 @@
+1.
+Question 1
+Seeking out new challenges and experiences in order to learn is an example of which analytical skill?
+1.Curiosity
+
+
+2.
+Question 2
+Understanding context is an analytical skill best described by which of the following? Select all that apply. 
+2.Identifying the motivation behind the collection of a dataset
+Adding descriptive headers to columns of data in a spreadsheet 
+Gathering additional information about data to understand the broader picture 
+
+3.
+Question 3
+Fill in the blank: _____ involves the ability to break things down into smaller steps or pieces and work with them in an orderly and logical way.
+3.A technical mindset 
+
+4.
+Question 4
+Which analytical skill involves managing the people, processes, and tools used in data analysis? 
+4.Data strategy 
+
+5.
+Question 5
+The manager at a music shop notices that more trombones are repaired on the days when Alex and Jasmine work the same shift. After some investigation, the manager discovers that Alex is excellent at fixing slides, and Jasmine is great at shaping mouthpieces. Working together, Alex and Jasmine repair trombones faster. The manager is happy to have discovered this relationship and decides to always schedule Alex and Jasmine for the same shifts. In this scenario, the manager used which quality of analytical thinking?
+5.Correlation
+
+6.
+Question 6
+The five whys is a technique that involves asking, “Why?” five times in order to achieve what goal?
+6.Identify the root cause of a problem
+
+7.
+Question 7
+An airport wants to make its luggage-handling process faster and simpler for travelers. A data analyst examines and evaluates how the process works currently in order to achieve the goal of a more efficient process. What methodology do they use? 
+
+
+
+Data visualization
+
+
+Gap analysis 
+
+
+Strategy
+
+8.Question 8
+Fill in the blank: Data analysts use the five analytical skills of curiosity, understanding context, having a technical mindset, data design, and data strategy to make _____ decisions.
+8.data-driven 
+
+1.Question 1
+Seeking out new challenges and experiences in order to learn is an example of which analytical skill?
+1.Curiosity
+
+2.Question 2
+Adding descriptive headers to columns of data in a spreadsheet is an example of which analytical skill?
+2.Understanding context
+
+3.Question 3
+A data analyst works for an appliance manufacturer. Last year, the company’s profits were down. Lower profits can be a result of fewer people buying appliances, higher costs to make appliances, or a combination of both. The analyst recognizes that those are big issues to solve, so they break down the problems into smaller pieces to analyze them in an orderly way. Which analytical skill are they using?
+3.A technical mindset 
+
+4.Question 4
+Fill in the blank: Data strategy involves _____ the people, processes, and tools used in data analysis. 
+4.managing 
+
+5.Question 5
+Fill in the blank: Being able to identify a relationship between two or more pieces of data describes _____.
+5.correlation
+
+6.Question 6
+Data analysts ask, “Why?” five times in order to get to the root cause of a problem.
+6.True
+
+7.Question 7
+What method involves examining and evaluating how a process works currently in order to get it where you want it to be in the future?
+7.Gap analysis 
+
+8.Question 8
+A company is receiving negative comments on social media about their products. To solve this problem, a data analyst uses each of their five analytical skills: curiosity, understanding context, having a technical mindset, data design, and data strategy. This makes it possible for the analyst to use facts to guide business strategy and figure out how to improve customer satisfaction. What is this an example of?
+8.Data-driven decision-making
+
