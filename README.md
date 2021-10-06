@@ -5,7 +5,7 @@ A collection of online certificates categorized by argument
 
 **<h3 align="center">Google</h3>**
 
-* [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+* [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) -- [Certificate](https://coursera.org/share/7bacae2d8828345a334d1eb023708a2e) -- [GitHub](https://github.com/AndreasDeSousa/Google_Data_Analytics_Professional_Certificate/blob/main/README.md)
   - :white_check_mark: [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data?specialization=google-data-analytics) -- [Certificate](https://coursera.org/share/6e2f76a777b146a769b12aaedea18d65)
   - :white_check_mark: [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics) -- [Certificate](https://coursera.org/share/021e5fc8c565833dc93acd41a2804667)
   - :white_check_mark: [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation?specialization=google-data-analytics) -- [Certificate](https://coursera.org/share/671402fb8818421fd81a04bd031b9ec4) 
