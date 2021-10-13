@@ -1,4 +1,4 @@
-# MOOC
+# MOOC - Online Courses
 A collection of online certificates categorized by argument
 
 ## Data Science
@@ -18,8 +18,8 @@ A collection of online certificates categorized by argument
 
 **<h3 align="center">Imperial College London</h3>**
 
-* [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
-  - :white_check_mark: [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome)                                                  -- [Certificate](https://www.coursera.org/account/accomplishments/certificate/36CK2JXDEEQL)                                                                                      -- [:octocat:](https://github.com/AndreasDeSousa/Mathematics_for_Machine_Learning_Specialization/tree/main/C1%20-%20Linear%20Algebra)
+* **[Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)**
+  - :white_check_mark: **[Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome)**                                                  -- [Certificate](https://www.coursera.org/account/accomplishments/certificate/36CK2JXDEEQL)                                                                                      -- [:octocat:](https://github.com/AndreasDeSousa/Mathematics_for_Machine_Learning_Specialization/tree/main/C1%20-%20Linear%20Algebra)
 
 **<h3 align="center">MathWorks</h3>**
 
