@@ -42,7 +42,7 @@ A collection of online certificates categorized by argument
   - :pencil: [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis?specialization=data-science-python)
 
 
-### Machine Learning
+### Machine/Deep Learning & AI
 
 **<h3 align="center">DeepLearning.AI</h3>**
 
