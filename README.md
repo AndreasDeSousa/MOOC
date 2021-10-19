@@ -45,7 +45,9 @@ A collection of online certificates categorized by argument
 
 ### Machine/Deep Learning & AI
 
+
 **<h3 align="center">DeepLearning.AI</h3>**
+
 
 * [Deep Learning](https://www.coursera.org/specializations/deep-learning) -- [Certificate](https://coursera.org/share/c4b73338a9e1f9d20ff4085f5ac171de)
   - :white_check_mark: [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) -- [Certificate](https://coursera.org/share/61c0ca6a1a909e7c58f678f1253caf3b)
@@ -60,9 +62,12 @@ A collection of online certificates categorized by argument
   - :white_check_mark: [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow?specialization=tensorflow-in-practice) -- [Certificate](https://coursera.org/share/c8407a60e30b36854e9ff3bc7a2e63a4)
   - :white_check_mark: [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction?specialization=tensorflow-in-practice) -- [Certificate](https://coursera.org/share/dc5232e7f2191e61025f638eb3078e41)
 
+
 **<h3 align="center">Imperial College London</h3>**
 
+
 * **[Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)**                                                       -- [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/XXRLWP4SGCSW)                                                                       -- [:octocat:](https://github.com/AndreasDeSousa/Mathematics_for_Machine_Learning_Specialization)
+
   - :white_check_mark: **[Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome)**                                                  -- [Certificate](https://www.coursera.org/account/accomplishments/certificate/36CK2JXDEEQL)                                                                                      -- [:octocat:](https://github.com/AndreasDeSousa/Mathematics_for_Machine_Learning_Specialization/tree/main/C1%20-%20Linear%20Algebra)
   - :white_check_mark: **[Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning/home/welcome)**                                    -- [Certificate](https://www.coursera.org/account/accomplishments/certificate/XRK2DF8U6S9S)                                                                                      -- [:octocat:](https://github.com/AndreasDeSousa/Mathematics_for_Machine_Learning_Specialization/tree/main/C2%20-%20Multivariate%20Calculus)
   - :white_check_mark: **[Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning/home/welcome)**                                                                        -- [Certificate](https://www.coursera.org/account/accomplishments/certificate/3SX5VYBJ62PW)                                                                                      -- [:octocat:](https://github.com/AndreasDeSousa/Mathematics_for_Machine_Learning_Specialization/tree/main/C3%20-%20Principle%20Component%20Analysis)
