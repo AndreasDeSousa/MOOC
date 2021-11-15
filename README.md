@@ -92,12 +92,12 @@ A collection of online certificates categorized by argument
 
 **<h3 align="center">University of Michigan</h3>**
 
-* [Python for Everybody Specializations](https://www.coursera.org/specializations/python) -- [Certificate](https://coursera.org/share/3e39c39e6563efbf7654f199b7abbcec)
-  - :white_check_mark: [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python?specialization=python) -- [Certificate](https://coursera.org/share/ef681dbc1e8d183c0b272d89c027a76b)
-  - :white_check_mark: [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python) -- [Certificate](https://coursera.org/share/86838ed96a1bd9ace9f0e53b99e1952e)
-  - :white_check_mark: [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data?specialization=python) -- [Certificate](https://coursera.org/share/993eeaee10714fd3ea9912ac8f3695d2)
-  - :white_check_mark: [Using Databases with Python](https://www.coursera.org/learn/python-databases?specialization=python) -- [Certificate](https://coursera.org/share/b2cec9ec15f3e64549eb8c28bd8d3d57)
-  - :white_check_mark: [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization?specialization=python) -- [Certificate](https://coursera.org/share/5ad351816dc7f6dcff8179ac072b14fa)
+* **[Python for Everybody Specializations](https://www.coursera.org/specializations/python)** -- [Certificate](https://coursera.org/share/3e39c39e6563efbf7654f199b7abbcec)  -- [:octocat:](https://github.com/AndreasDeSousa/Python_for_everybody_specialization)
+  - :white_check_mark: **[Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python?specialization=python)** -- [Certificate](https://coursera.org/share/ef681dbc1e8d183c0b272d89c027a76b)-- [:octocat:](https://github.com/AndreasDeSousa/Python_for_everybody_specialization/tree/main/C1%20Programming%20for%20everyone%20(Python))
+  - :white_check_mark: **[Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python)** -- [Certificate](https://coursera.org/share/86838ed96a1bd9ace9f0e53b99e1952e)-- [:octocat:](https://github.com/AndreasDeSousa/Python_for_everybody_specialization/tree/main/C2%20Python%20Data%20Structures)
+  - :white_check_mark: **[Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data?specialization=python)** -- [Certificate](https://coursera.org/share/993eeaee10714fd3ea9912ac8f3695d2)-- [:octocat:](https://github.com/AndreasDeSousa/Python_for_everybody_specialization/tree/main/C3%20Using%20Python%20to%20Access%20Web%20Data)
+  - :white_check_mark: **[Using Databases with Python](https://www.coursera.org/learn/python-databases?specialization=python)** -- [Certificate](https://coursera.org/share/b2cec9ec15f3e64549eb8c28bd8d3d57)-- [:octocat:](https://github.com/AndreasDeSousa/Python_for_everybody_specialization/tree/main/C4%20Using%20Databases%20with%20Python)
+  - :white_check_mark: **[Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization?specialization=python)** -- [Certificate](https://coursera.org/share/5ad351816dc7f6dcff8179ac072b14fa)-- [:octocat:](https://github.com/AndreasDeSousa/Python_for_everybody_specialization/tree/main/C5%20Capstone%20-%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python)
 
 ## Business
 **<h3 align="center">Facebook</h3>**
