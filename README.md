@@ -18,29 +18,36 @@ A collection of online certificates categorized by argument
 
 **<h3 align="center">MathWorks</h3>**
 
-* [Practical Data Science with MATLAB Specialization](https://www.coursera.org/specializations/practical-data-science-matlab)
+* **[Practical Data Science with MATLAB Specialization](https://www.coursera.org/specializations/practical-data-science-matlab)**
      -- [Certificate]()                                                                        -- [:octocat:](https://github.com/AndreasDeSousa/Practical_Data_Science_with_MATLAB_Specialization)
-  - :white_check_mark: [Exploratory Data Analysis with MATLAB](https://www.coursera.org/learn/exploratory-data-analysis-matlab?specialization=practical-data-science-matlab)                            -- [Certificate](https://coursera.org/share/ffda826482640a11de8c32dd5d6d797b)                                                                                                    -- [:octocat:](https://github.com/AndreasDeSousa/Practical_Data_Science_with_MATLAB_Specialization/tree/main/C1%20Exploratory%20Data%20Analysis%20with%20MATLAB)
-  - :white_check_mark: [Data Processing and Feature Engineering with MATLAB](https://www.coursera.org/learn/feature-engineering-matlab?specialization=practical-data-science-matlab)                -- [Certificate](https://coursera.org/share/d6680e565561b8f187ea646343d4c89a)                                                                                                    -- [:octocat:](https://github.com/AndreasDeSousa/Practical_Data_Science_with_MATLAB_Specialization/tree/main/C2%20Data%20Processing%20and%20Feature%20Engineering%20with%20MATLAB)
-  - :pencil: [Predictive Modeling and Machine Learning with MATLAB](https://www.coursera.org/learn/predictive-modeling-machine-learning?specialization=practical-data-science-matlab)                -- [:octocat:]()
-  - :pencil: [Data Science Project: MATLAB for the Real World](https://www.coursera.org/learn/matlab-capstone?specialization=practical-data-science-matlab)                                            -- [Certificate]()                                                                                                    -- [:octocat:]()
+     
+  - :white_check_mark: **[Exploratory Data Analysis with MATLAB](https://www.coursera.org/learn/exploratory-data-analysis-matlab?specialization=practical-data-science-matlab)**                          -- [Certificate](https://coursera.org/share/ffda826482640a11de8c32dd5d6d797b)                                                                                                    -- [:octocat:](https://github.com/AndreasDeSousa/Practical_Data_Science_with_MATLAB_Specialization/tree/main/C1%20Exploratory%20Data%20Analysis%20with%20MATLAB)
+  - :white_check_mark: **[Data Processing and Feature Engineering with MATLAB](https://www.coursera.org/learn/feature-engineering-matlab?specialization=practical-data-science-matlab)**                -- [Certificate](https://coursera.org/share/d6680e565561b8f187ea646343d4c89a)                                                                                                    -- [:octocat:](https://github.com/AndreasDeSousa/Practical_Data_Science_with_MATLAB_Specialization/tree/main/C2%20Data%20Processing%20and%20Feature%20Engineering%20with%20MATLAB)
+  - :pencil: **[Predictive Modeling and Machine Learning with MATLAB](https://www.coursera.org/learn/predictive-modeling-machine-learning?specialization=practical-data-science-matlab)**                -- [:octocat:]()
+  - :pencil: **[Data Science Project: MATLAB for the Real World](https://www.coursera.org/learn/matlab-capstone?specialization=practical-data-science-matlab)**                                            -- [Certificate]()                                                                                                    -- [:octocat:]()
 
+**<h3 align="center">UC Davis</h3>**
+* **[Learn SQL Basics for Data Science Specialization](https://www.coursera.org/specializations/learn-sql-basics-data-science)** -- [Certificate]() -- [:octocat:](https://github.com/AndreasDeSousa/Learn_SQL_Basics_for_Data_Science_Specialization)
+  - :white_check_mark: **[SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science?specialization=learn-sql-basics-data-science)** -- [Certificate]() -- [:octocat:](https://github.com/AndreasDeSousa/Learn_SQL_Basics_for_Data_Science_Specialization/tree/main/C1%20SQL%20for%20Data%20Science)
+  - 📝: **[Data Wrangling, Analysis and AB Testing with SQL](https://www.coursera.org/learn/data-wrangling-analysis-abtesting?specialization=learn-sql-basics-data-science)** -- [Certificate]() -- [:octocat:]()
+  - 📝: **[Distributed Computing with Spark SQL](https://www.coursera.org/learn/spark-sql?specialization=learn-sql-basics-data-science)** -- [Certificate]() -- [:octocat:]() 
+  - 📝: **[SQL for Data Science Capstone Project](https://www.coursera.org/learn/sql-data-science-capstone?specialization=learn-sql-basics-data-science)** -- [Certificate]() -- [:octocat:]() 
 
 **<h3 align="center">University of Colorado</h3>**
 
-* [Everyday Excel](https://www.coursera.org/specializations/everyday-excel) -- [Certificate](https://coursera.org/share/d5a648be06761b884e004c869dd74543)
-  - :white_check_mark: [Everyday Excel, Part 1](https://www.coursera.org/learn/everyday-excel-part-1?specialization=everyday-excel) -- [Certificate](https://coursera.org/share/ae1c73c82575670180d156b8c86ac2e3)
-  - :white_check_mark: [Everyday Excel, Part 2](https://www.coursera.org/learn/everyday-excel-part-2?specialization=everyday-excel) -- [Certificate](https://coursera.org/share/f4e6872e8cc45a7652774c307d28e602)
-  - :white_check_mark: [Everyday Excel, Part 3 (Projects)](https://www.coursera.org/learn/everyday-excel-projects?specialization=everyday-excel) -- [Certificate](https://coursera.org/share/4b608644a9b1029163c07bffb22c9315)
+* **[Everyday Excel](https://www.coursera.org/specializations/everyday-excel)** -- [Certificate](https://coursera.org/share/d5a648be06761b884e004c869dd74543) -- [:octocat:](https://github.com/AndreasDeSousa/Everyday_Excel)
+  - :white_check_mark: **[Everyday Excel, Part 1](https://www.coursera.org/learn/everyday-excel-part-1?specialization=everyday-excel)** -- [Certificate](https://coursera.org/share/ae1c73c82575670180d156b8c86ac2e3) -- [:octocat:](https://github.com/AndreasDeSousa/Everyday_Excel/tree/main/Part_1)
+  - :white_check_mark: **[Everyday Excel, Part 2](https://www.coursera.org/learn/everyday-excel-part-2?specialization=everyday-excel)** -- [Certificate](https://coursera.org/share/f4e6872e8cc45a7652774c307d28e602) -- [:octocat:](https://github.com/AndreasDeSousa/Everyday_Excel/tree/main/Part_2)
+  - :white_check_mark: **[Everyday Excel, Part 3 (Projects)](https://www.coursera.org/learn/everyday-excel-projects?specialization=everyday-excel)** -- [Certificate](https://coursera.org/share/4b608644a9b1029163c07bffb22c9315) -- [:octocat:](https://github.com/AndreasDeSousa/Everyday_Excel/tree/main/Part_3)
 
 **<h3 align="center">University of Michigan</h3>**
 
-* [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
-  - :white_check_mark: [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python) -- [Certificate](https://coursera.org/share/1b9627d748841d8e056f9bfd1230e545)
-  - :pencil: [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting?specialization=data-science-python)
-  - :pencil: [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python)
-  - :pencil: [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining?specialization=data-science-python)
-  - :pencil: [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis?specialization=data-science-python)
+* **[Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)**
+  - :white_check_mark: **[Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python)** -- [Certificate](https://coursera.org/share/1b9627d748841d8e056f9bfd1230e545)
+  - :pencil: **[Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting?specialization=data-science-python)**
+  - :pencil: **[Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python)**
+  - :pencil: **[Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining?specialization=data-science-python)**
+  - :pencil: **[Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis?specialization=data-science-python)**
 
 
 ### Machine/Deep Learning & AI
@@ -77,11 +84,11 @@ A collection of online certificates categorized by argument
 
 **<h3 align="center">Learn Quest</h3>**
 
-* [Introduction to Computer Programming with Visual Basic](https://www.coursera.org/specializations/visual-basic-computer-programming) -- [Certificate](https://coursera.org/share/c75ba653f5ddfc91b2eef21e90277a66)
-  - :white_check_mark: [Foundations of Computer Science](https://www.coursera.org/learn/computer-science-foundations?specialization=visual-basic-computer-programming) -- [Certificate](https://coursera.org/share/ed52db80ea8798b9ceb318a8d9232c58)
-  - :white_check_mark: [Introduction to Visual Basic Programming](https://www.coursera.org/learn/visual-basic-programming-introduction?specialization=visual-basic-computer-programming) -- [Certificate](https://coursera.org/share/c0ee769109279d3e34044b34cfc520e7)
-  - :white_check_mark: [Visual Basic Programming: Classes and Collections](https://www.coursera.org/learn/visual-basic-classes-collections?specialization=visual-basic-computer-programming) -- [Certificate](https://coursera.org/share/4a6bec67b3d14d874419ec459a5a3021)
-  - :white_check_mark: [Visual Basic Programming: Inheritance and Polymorphism](https://www.coursera.org/learn/visual-basic-inheritance-polymorphism?specialization=visual-basic-computer-programming) -- [Certificate](https://coursera.org/share/9fd632e81c9fa90db6fa71d976a5df3c)
+* **[Introduction to Computer Programming with Visual Basic](https://www.coursera.org/specializations/visual-basic-computer-programming)** -- [Certificate](https://coursera.org/share/c75ba653f5ddfc91b2eef21e90277a66) -- [:octocat:](https://github.com/AndreasDeSousa/Introduction_to_Computer_Programming_with_Visual_Basic_Programming)
+  - :white_check_mark: **[Foundations of Computer Science](https://www.coursera.org/learn/computer-science-foundations?specialization=visual-basic-computer-programming)** -- [Certificate](https://coursera.org/share/ed52db80ea8798b9ceb318a8d9232c58) -- [:octocat:](https://github.com/AndreasDeSousa/Introduction_to_Computer_Programming_with_Visual_Basic_Programming/tree/main/C1%20Foundations%20of%20Computer%20Science)
+  - :white_check_mark: **[Introduction to Visual Basic Programming](https://www.coursera.org/learn/visual-basic-programming-introduction?specialization=visual-basic-computer-programming)** -- [Certificate](https://coursera.org/share/c0ee769109279d3e34044b34cfc520e7) -- [:octocat:](https://github.com/AndreasDeSousa/Introduction_to_Computer_Programming_with_Visual_Basic_Programming/tree/main/C2%20Introduction%20to%20Visual%20Basic%20Programming)
+  - :white_check_mark: **[Visual Basic Programming: Classes and Collections](https://www.coursera.org/learn/visual-basic-classes-collections?specialization=visual-basic-computer-programming)** -- [Certificate](https://coursera.org/share/4a6bec67b3d14d874419ec459a5a3021) -- [:octocat:](https://github.com/AndreasDeSousa/Introduction_to_Computer_Programming_with_Visual_Basic_Programming/tree/main/C3%20Visual%20Basic%20Programming%20-%20Classes%20and%20Collections)
+  - :white_check_mark: **[Visual Basic Programming: Inheritance and Polymorphism](https://www.coursera.org/learn/visual-basic-inheritance-polymorphism?specialization=visual-basic-computer-programming)** -- [Certificate](https://coursera.org/share/9fd632e81c9fa90db6fa71d976a5df3c) -- [:octocat:](https://github.com/AndreasDeSousa/Introduction_to_Computer_Programming_with_Visual_Basic_Programming/tree/main/C4%20Visual%20Basic%20Programming%20-%20Inheritance%20and%20Polymorphism)
 
 * [Python for Everybody Specializations](https://www.coursera.org/specializations/python) -- [Certificate](https://coursera.org/share/3e39c39e6563efbf7654f199b7abbcec)
   - :white_check_mark: [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python?specialization=python) -- [Certificate](https://coursera.org/share/ef681dbc1e8d183c0b272d89c027a76b)
