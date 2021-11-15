@@ -90,6 +90,8 @@ A collection of online certificates categorized by argument
   - :white_check_mark: **[Visual Basic Programming: Classes and Collections](https://www.coursera.org/learn/visual-basic-classes-collections?specialization=visual-basic-computer-programming)** -- [Certificate](https://coursera.org/share/4a6bec67b3d14d874419ec459a5a3021) -- [:octocat:](https://github.com/AndreasDeSousa/Introduction_to_Computer_Programming_with_Visual_Basic_Programming/tree/main/C3%20Visual%20Basic%20Programming%20-%20Classes%20and%20Collections)
   - :white_check_mark: **[Visual Basic Programming: Inheritance and Polymorphism](https://www.coursera.org/learn/visual-basic-inheritance-polymorphism?specialization=visual-basic-computer-programming)** -- [Certificate](https://coursera.org/share/9fd632e81c9fa90db6fa71d976a5df3c) -- [:octocat:](https://github.com/AndreasDeSousa/Introduction_to_Computer_Programming_with_Visual_Basic_Programming/tree/main/C4%20Visual%20Basic%20Programming%20-%20Inheritance%20and%20Polymorphism)
 
+**<h3 align="center">University of Michigan</h3>**
+
 * [Python for Everybody Specializations](https://www.coursera.org/specializations/python) -- [Certificate](https://coursera.org/share/3e39c39e6563efbf7654f199b7abbcec)
   - :white_check_mark: [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python?specialization=python) -- [Certificate](https://coursera.org/share/ef681dbc1e8d183c0b272d89c027a76b)
   - :white_check_mark: [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python) -- [Certificate](https://coursera.org/share/86838ed96a1bd9ace9f0e53b99e1952e)
